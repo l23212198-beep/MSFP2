@@ -39,9 +39,11 @@ En la analogía eléctrica, la presión arterial corresponde a la diferencia de 
 Para una representación básica de dos elementos, el modelo considera una resistencia periférica (R) y una capacitancia arterial (C). Su comportamiento puede describirse mediante el balance entre el flujo de entrada, el flujo que atraviesa la resistencia y el volumen almacenado por la capacitancia:
 
 
+
 $$
 Q_{in}(t) = C\frac{dP(t)}{dt} + \frac{P(t)}{R}
 $$
+
 
 En esta expresión, \(Q_{in}(t)\) es el flujo sanguíneo de entrada, \(P(t)\) es la presión arterial respecto a una presión de referencia, \(R\) representa la resistencia vascular periférica y \(C\) la distensibilidad arterial. La constante de tiempo \(\tau = RC\) caracteriza la rapidez con que disminuye la presión en ausencia de flujo de entrada. Esta ecuación se presenta como fundamento general del modelo de dos elementos; su correspondencia exacta con el circuito empleado en la práctica debe verificarse con el material del curso.
 
