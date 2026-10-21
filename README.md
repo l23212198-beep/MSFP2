@@ -1,6 +1,4 @@
-[README_practica_2.md](https://github.com/user-attachments/files/33745714/README_practica_2.md)
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/)
-
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l23212198-beep/MSFP2)
 # Práctica 2: Modelado del sistema cardiovascular mediante el modelo de Windkessel
 
 ## Información de la estudiante
